@@ -12,6 +12,7 @@ keywords:
 ---
 
 ## Why Common Dog Health Issues Matters
+![Related image](https://images.unsplash.com/photo-1574158622682-e40e69881006?w=800&h=400&fit=crop)
 
 According to a 2025 survey, 66% of people interested in pet care find common dog health issues to be an essential skill. The right knowledge can save significant time and money.
 
@@ -36,6 +37,7 @@ Document what works and what does not. Apply lessons learned to continuously imp
 Quality materials and tools may cost more upfront but deliver better results and last longer.
 
 ## Step-by-Step Guide
+![Related image](https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&h=400&fit=crop)
 
 ### Step 1: Assessment and Planning
 Evaluate your current situation. Identify specific needs, set realistic goals, and create a timeline.
