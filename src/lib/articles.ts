@@ -1,0 +1,95 @@
+import fs from 'fs';
+import path from 'path';
+import matter from 'gray-matter';
+
+export interface ArticleMeta {
+  slug: string;
+  title: string;
+  excerpt: string;
+  category: string;
+  date: string;
+  readTime: number;
+  keywords: string[];
+}
+
+export interface ArticleData extends ArticleMeta {
+  content: string;
+}
+
+const articlesDir = path.join(process.cwd(), 'content/articles');
+
+export function getAllArticles(): ArticleMeta[] {
+  if (!fs.existsSync(articlesDir)) return [];
+  const files = fs.readdirSync(articlesDir).filter((f) => f.endsWith('.md'));
+  const articles = files
+    .map((file) => {
+      const raw = fs.readFileSync(path.join(articlesDir, file), 'utf-8');
+      const { data } = matter(raw);
+      return {
+        slug: file.replace('.md', ''),
+        title: data.title || '',
+        excerpt: data.excerpt || '',
+        category: data.category || 'General',
+        date: data.date || '',
+        readTime: data.readTime || 5,
+        keywords: data.keywords || [],
+      } as ArticleMeta;
+    })
+    .sort((a, b) => (a.date < b.date ? 1 : -1));
+  return articles;
+}
+
+export function getArticleBySlug(slug: string): ArticleData | null {
+  const filePath = path.join(articlesDir, slug + '.md');
+  if (!fs.existsSync(filePath)) return null;
+  const raw = fs.readFileSync(filePath, 'utf-8');
+  const { data, content } = matter(raw);
+  return {
+    slug,
+    title: data.title || '',
+    excerpt: data.excerpt || '',
+    category: data.category || 'General',
+    date: data.date || '',
+    readTime: data.readTime || 5,
+    keywords: data.keywords || [],
+    content,
+  };
+}
+
+export function getCategories(): { name: string; slug: string; icon: string; count: number }[] {
+  const articles = getAllArticles();
+  const catMap = new Map<string, number>();
+  articles.forEach((a) => catMap.set(a.category, (catMap.get(a.category) || 0) + 1));
+
+  const icons: Record<string, string> = {
+    Kitchen: '\u{1F373}',
+    Bedroom: '\u{1F6CF}\uFE0F',
+    Closet: '\u{1F457}',
+    Garage: '\u{1F527}',
+    Bathroom: '\u{1F6C1}',
+    'Living Room': '\u{1F6CB}\uFE0F',
+    'Home Office': '\u{1F4BB}',
+    General: '\u{1F3E0}',
+  };
+
+  return Array.from(catMap.entries()).map(([name, count]) => ({
+    name,
+    slug: name.toLowerCase().replace(/\s+/g, '-'),
+    icon: icons[name] || '\u{1F4E6}',
+    count,
+  }));
+}
+
+export function getArticlesByCategory(category: string): ArticleMeta[] {
+  return getAllArticles().filter(
+    (a) => a.category.toLowerCase().replace(/\s+/g, '-') === category
+  );
+}
+
+export function getAllSlugs(): string[] {
+  if (!fs.existsSync(articlesDir)) return [];
+  return fs
+    .readdirSync(articlesDir)
+    .filter((f) => f.endsWith('.md'))
+    .map((f) => f.replace('.md', ''));
+}
