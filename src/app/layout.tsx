@@ -1,8 +1,9 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import "./globals.css";
 import SearchBar from "@/components/SearchBar";
 
 export const metadata: Metadata = {
+  verification: { google: "Y9bYAWGBOs0iyKHC2knpGdauqdjIi67FhxqLrjKarsM" },
   metadataBase: new URL("https://pet-care-guides.vercel.app"),
   title: { default: "Pet Care Guides | Happy Pets, Happy Life 2026", template: "%s | Pet Care Guides" },
   description: "Expert pet care guides: nutrition, training, health, grooming for dogs, cats, fish, and small pets.",

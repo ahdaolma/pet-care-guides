@@ -1,4 +1,4 @@
-﻿import { Metadata } from 'next';
+import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getArticleBySlug, getAllSlugs, getAllArticles } from '@/lib/articles';
 import BackToTop from '@/components/BackToTop';
@@ -57,9 +57,8 @@ export default async function ArticlePage({ params }: Props) {
     ],
   };
 
-  return (<ReadingProgress />
-    
-    <>
+  return (<>
+      <ReadingProgress />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <article className="max-w-3xl mx-auto px-6 py-8 bg-[#12080D]">
         <nav className="text-sm text-rose-800 mb-6" style={{ fontFamily: '"Nunito", sans-serif' }}>

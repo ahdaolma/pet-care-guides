@@ -1,4 +1,4 @@
-﻿'use client';
+'use client';
 
 import { useState, useEffect } from 'react';
 
@@ -17,7 +17,7 @@ export default function ReadingProgress({ color = 'bg-rose-400' }: { color?: str
 
   return (
     <div className="fixed top-0 left-0 w-full h-1 z-[60] bg-transparent pointer-events-none">
-      <div className={h-full  transition-all duration-150 ease-out} style={{ width: progress + '%' }} />
+      <div className={`h-full transition-all duration-150 ease-out ${color}`} style={{ width: progress + '%' }} />
     </div>
   );
 }

@@ -1,636 +1,636 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pet-care-guides.vercel.app</loc>
+    <loc>https://example.com</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles</loc>
+    <loc>https://example.com/articles</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/category/"dogs"</loc>
+    <loc>https://example.com/category/"dogs"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/category/"fish"</loc>
+    <loc>https://example.com/category/"fish"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/category/"cats"</loc>
+    <loc>https://example.com/category/"cats"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/category/"small-pets"</loc>
+    <loc>https://example.com/category/"small-pets"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/category/"pet-health"</loc>
+    <loc>https://example.com/category/"pet-health"</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/adopting-a-rescue-dog-guide</loc>
+    <loc>https://example.com/articles/adopting-a-rescue-dog-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/adopting-a-rescue-dog-tips</loc>
+    <loc>https://example.com/articles/adopting-a-rescue-dog-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/best-dog-food-for-puppies-guide</loc>
+    <loc>https://example.com/articles/best-dog-food-for-puppies-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/best-dog-food-for-puppies-tips</loc>
+    <loc>https://example.com/articles/best-dog-food-for-puppies-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/betta-fish-care-guide</loc>
+    <loc>https://example.com/articles/betta-fish-care-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/betta-fish-care-tips</loc>
+    <loc>https://example.com/articles/betta-fish-care-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/cat-dental-care-guide</loc>
+    <loc>https://example.com/articles/cat-dental-care-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/cat-dental-care-tips</loc>
+    <loc>https://example.com/articles/cat-dental-care-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/cat-enrichment-ideas-guide</loc>
+    <loc>https://example.com/articles/cat-enrichment-ideas-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/cat-enrichment-ideas-tips</loc>
+    <loc>https://example.com/articles/cat-enrichment-ideas-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/cat-grooming-tips-guide</loc>
+    <loc>https://example.com/articles/cat-grooming-tips-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/cat-grooming-tips-tips</loc>
+    <loc>https://example.com/articles/cat-grooming-tips-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/cat-litter-box-problems-guide</loc>
+    <loc>https://example.com/articles/cat-litter-box-problems-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/cat-litter-box-problems-tips</loc>
+    <loc>https://example.com/articles/cat-litter-box-problems-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/cat-scratching-solutions-guide</loc>
+    <loc>https://example.com/articles/cat-scratching-solutions-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/cat-scratching-solutions-tips</loc>
+    <loc>https://example.com/articles/cat-scratching-solutions-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/cat-urinary-health-guide</loc>
+    <loc>https://example.com/articles/cat-urinary-health-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/cat-urinary-health-tips</loc>
+    <loc>https://example.com/articles/cat-urinary-health-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/choosing-right-dog-breed-guide</loc>
+    <loc>https://example.com/articles/choosing-right-dog-breed-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/choosing-right-dog-breed-tips</loc>
+    <loc>https://example.com/articles/choosing-right-dog-breed-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/common-dog-health-issues-guide</loc>
+    <loc>https://example.com/articles/common-dog-health-issues-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/common-dog-health-issues-tips</loc>
+    <loc>https://example.com/articles/common-dog-health-issues-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/crate-training-a-puppy-guide</loc>
+    <loc>https://example.com/articles/crate-training-a-puppy-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/crate-training-a-puppy-tips</loc>
+    <loc>https://example.com/articles/crate-training-a-puppy-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/DIY-pet-toys-guide</loc>
+    <loc>https://example.com/articles/DIY-pet-toys-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/DIY-pet-toys-tips</loc>
+    <loc>https://example.com/articles/DIY-pet-toys-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/dog-ear-infection-treatment-guide</loc>
+    <loc>https://example.com/articles/dog-ear-infection-treatment-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/dog-ear-infection-treatment-tips</loc>
+    <loc>https://example.com/articles/dog-ear-infection-treatment-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/dog-exercise-needs-guide</loc>
+    <loc>https://example.com/articles/dog-exercise-needs-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/dog-exercise-needs-tips</loc>
+    <loc>https://example.com/articles/dog-exercise-needs-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/dog-grooming-at-home-guide</loc>
+    <loc>https://example.com/articles/dog-grooming-at-home-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/dog-grooming-at-home-tips</loc>
+    <loc>https://example.com/articles/dog-grooming-at-home-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/dog-separation-anxiety-guide</loc>
+    <loc>https://example.com/articles/dog-separation-anxiety-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/dog-separation-anxiety-tips</loc>
+    <loc>https://example.com/articles/dog-separation-anxiety-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/family-friendly-pets-guide</loc>
+    <loc>https://example.com/articles/family-friendly-pets-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/family-friendly-pets-tips</loc>
+    <loc>https://example.com/articles/family-friendly-pets-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/flea-and-tick-prevention-guide</loc>
+    <loc>https://example.com/articles/flea-and-tick-prevention-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/flea-and-tick-prevention-tips</loc>
+    <loc>https://example.com/articles/flea-and-tick-prevention-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/freshwater-aquarium-setup-guide</loc>
+    <loc>https://example.com/articles/freshwater-aquarium-setup-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/freshwater-aquarium-setup-tips</loc>
+    <loc>https://example.com/articles/freshwater-aquarium-setup-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/goldfish-tank-maintenance-guide</loc>
+    <loc>https://example.com/articles/goldfish-tank-maintenance-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/goldfish-tank-maintenance-tips</loc>
+    <loc>https://example.com/articles/goldfish-tank-maintenance-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/guinea-pig-diet-guide</loc>
+    <loc>https://example.com/articles/guinea-pig-diet-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/guinea-pig-diet-tips</loc>
+    <loc>https://example.com/articles/guinea-pig-diet-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/hamster-cage-setup-guide</loc>
+    <loc>https://example.com/articles/hamster-cage-setup-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/hamster-cage-setup-tips</loc>
+    <loc>https://example.com/articles/hamster-cage-setup-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/homemade-cat-food-recipes-guide</loc>
+    <loc>https://example.com/articles/homemade-cat-food-recipes-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/homemade-cat-food-recipes-tips</loc>
+    <loc>https://example.com/articles/homemade-cat-food-recipes-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/how-to-bathe-a-cat-guide</loc>
+    <loc>https://example.com/articles/how-to-bathe-a-cat-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/how-to-bathe-a-cat-tips</loc>
+    <loc>https://example.com/articles/how-to-bathe-a-cat-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/hypoallergenic-cat-breeds-guide</loc>
+    <loc>https://example.com/articles/hypoallergenic-cat-breeds-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/hypoallergenic-cat-breeds-tips</loc>
+    <loc>https://example.com/articles/hypoallergenic-cat-breeds-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/introducing-cats-to-dogs-guide</loc>
+    <loc>https://example.com/articles/introducing-cats-to-dogs-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/introducing-cats-to-dogs-tips</loc>
+    <loc>https://example.com/articles/introducing-cats-to-dogs-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/kitten-care-for-beginners-guide</loc>
+    <loc>https://example.com/articles/kitten-care-for-beginners-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/kitten-care-for-beginners-tips</loc>
+    <loc>https://example.com/articles/kitten-care-for-beginners-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/leash-training-dogs-guide</loc>
+    <loc>https://example.com/articles/leash-training-dogs-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/leash-training-dogs-tips</loc>
+    <loc>https://example.com/articles/leash-training-dogs-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/nail-trimming-for-dogs-guide</loc>
+    <loc>https://example.com/articles/nail-trimming-for-dogs-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/nail-trimming-for-dogs-tips</loc>
+    <loc>https://example.com/articles/nail-trimming-for-dogs-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-allergies-symptoms-guide</loc>
+    <loc>https://example.com/articles/pet-allergies-symptoms-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-allergies-symptoms-tips</loc>
+    <loc>https://example.com/articles/pet-allergies-symptoms-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-bird-care-guide</loc>
+    <loc>https://example.com/articles/pet-bird-care-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-bird-care-tips</loc>
+    <loc>https://example.com/articles/pet-bird-care-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-dental-health-guide</loc>
+    <loc>https://example.com/articles/pet-dental-health-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-dental-health-tips</loc>
+    <loc>https://example.com/articles/pet-dental-health-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-first-aid-basics-guide</loc>
+    <loc>https://example.com/articles/pet-first-aid-basics-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-first-aid-basics-tips</loc>
+    <loc>https://example.com/articles/pet-first-aid-basics-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-food-allergies-guide</loc>
+    <loc>https://example.com/articles/pet-food-allergies-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-food-allergies-tips</loc>
+    <loc>https://example.com/articles/pet-food-allergies-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-friendly-home-design-guide</loc>
+    <loc>https://example.com/articles/pet-friendly-home-design-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-friendly-home-design-tips</loc>
+    <loc>https://example.com/articles/pet-friendly-home-design-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-insurance-guide-guide</loc>
+    <loc>https://example.com/articles/pet-insurance-guide-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-insurance-guide-tips</loc>
+    <loc>https://example.com/articles/pet-insurance-guide-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-odor-removal-guide</loc>
+    <loc>https://example.com/articles/pet-odor-removal-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-odor-removal-tips</loc>
+    <loc>https://example.com/articles/pet-odor-removal-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-photography-tips-guide</loc>
+    <loc>https://example.com/articles/pet-photography-tips-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-photography-tips-tips</loc>
+    <loc>https://example.com/articles/pet-photography-tips-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-safe-cleaning-products-guide</loc>
+    <loc>https://example.com/articles/pet-safe-cleaning-products-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/pet-safe-cleaning-products-tips</loc>
+    <loc>https://example.com/articles/pet-safe-cleaning-products-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/puppy-training-basics-guide</loc>
+    <loc>https://example.com/articles/puppy-training-basics-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/puppy-training-basics-tips</loc>
+    <loc>https://example.com/articles/puppy-training-basics-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/rabbit-care-for-beginners-guide</loc>
+    <loc>https://example.com/articles/rabbit-care-for-beginners-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/rabbit-care-for-beginners-tips</loc>
+    <loc>https://example.com/articles/rabbit-care-for-beginners-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/raw-diet-for-dogs-guide</loc>
+    <loc>https://example.com/articles/raw-diet-for-dogs-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/raw-diet-for-dogs-tips</loc>
+    <loc>https://example.com/articles/raw-diet-for-dogs-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/senior-dog-care-guide</loc>
+    <loc>https://example.com/articles/senior-dog-care-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/senior-dog-care-tips</loc>
+    <loc>https://example.com/articles/senior-dog-care-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/small-apartment-dogs-guide</loc>
+    <loc>https://example.com/articles/small-apartment-dogs-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/small-apartment-dogs-tips</loc>
+    <loc>https://example.com/articles/small-apartment-dogs-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/stop-dog-barking-guide</loc>
+    <loc>https://example.com/articles/stop-dog-barking-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/stop-dog-barking-tips</loc>
+    <loc>https://example.com/articles/stop-dog-barking-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/toxic-foods-for-dogs-guide</loc>
+    <loc>https://example.com/articles/toxic-foods-for-dogs-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/toxic-foods-for-dogs-tips</loc>
+    <loc>https://example.com/articles/toxic-foods-for-dogs-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/traveling-with-pets-guide</loc>
+    <loc>https://example.com/articles/traveling-with-pets-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/traveling-with-pets-tips</loc>
+    <loc>https://example.com/articles/traveling-with-pets-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/tropical-fish-guide-guide</loc>
+    <loc>https://example.com/articles/tropical-fish-guide-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/tropical-fish-guide-tips</loc>
+    <loc>https://example.com/articles/tropical-fish-guide-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/vaccinations-for-puppies-guide</loc>
+    <loc>https://example.com/articles/vaccinations-for-puppies-guide</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pet-care-guides.vercel.app/articles/vaccinations-for-puppies-tips</loc>
+    <loc>https://example.com/articles/vaccinations-for-puppies-tips</loc>
     <lastmod>2026-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
