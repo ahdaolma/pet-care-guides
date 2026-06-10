@@ -14,11 +14,15 @@ keywords:
 
 ## Professional Grooming Costs $600/Year — Learning to DIY Saves That and Builds Trust
 
+![Dog grooming at home](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.ORxBFw20AV9BAcKyvYq5pgHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=02dff8cb08f1ad5b5bddc07d1cc9a4cbd9b0beeba982a46a1bbba186c225c0ac&ipo=images)
+
 Professional grooming averages $50-$100 per session, 6-8 times per year — $300-$800 annually per dog. Learning basic grooming at home saves money and turns grooming from a stressful event into bonding time.
 
 But improper grooming causes real harm: cutting the quick (nail blood vessel) causes bleeding and pain that makes future nail trims terrifying. Using the wrong brush on a double-coated dog damages the undercoat. This guide covers the exact tools and techniques for each coat type.
 
 ### Tools by Coat Type
+
+![Dog grooming at home](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.ORxBFw20AV9BAcKyvYq5pgHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=02dff8cb08f1ad5b5bddc07d1cc9a4cbd9b0beeba982a46a1bbba186c225c0ac&ipo=images)
 
 | Coat Type | Breeds | Brush | Frequency |
 |-----------|--------|-------|-----------|
@@ -33,6 +37,8 @@ But improper grooming causes real harm: cutting the quick (nail blood vessel) ca
 
 ### Bathing: Frequency and Technique
 
+![Dog grooming at home](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.ORxBFw20AV9BAcKyvYq5pgHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=02dff8cb08f1ad5b5bddc07d1cc9a4cbd9b0beeba982a46a1bbba186c225c0ac&ipo=images)
+
 | Coat Type | Bath Frequency | Shampoo |
 |-----------|---------------|---------|
 | Most dogs | Every 4-8 weeks | Oatmeal-based (Burt's Bees, Earthbath) |
@@ -46,6 +52,8 @@ But improper grooming causes real harm: cutting the quick (nail blood vessel) ca
 
 ### Nail Trimming: The Most Feared — and Most Important — Part
 
+![Dog grooming at home](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.ORxBFw20AV9BAcKyvYq5pgHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=02dff8cb08f1ad5b5bddc07d1cc9a4cbd9b0beeba982a46a1bbba186c225c0ac&ipo=images)
+
 Long nails change a dog's gait, causing joint stress and arthritis. Nails should not touch the floor when the dog is standing. If you hear clicking on hard floors, the nails are too long.
 
 **The quick** is the blood vessel inside the nail. In light nails, it is visible as a pink triangle. In dark nails, it is invisible — trim a tiny slice at a time. Cut at a 45-degree angle, taking off 1-2mm slices. Stop when you see a small dark circle appear in the center of the cut surface — that is the beginning of the quick.
@@ -56,10 +64,13 @@ Long nails change a dog's gait, causing joint stress and arthritis. Nails should
 
 ### Ear Cleaning
 
+![Dog grooming at home](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.ORxBFw20AV9BAcKyvYq5pgHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=02dff8cb08f1ad5b5bddc07d1cc9a4cbd9b0beeba982a46a1bbba186c225c0ac&ipo=images)
+
 Dogs with floppy ears (Cocker Spaniel, Basset Hound, Golden Retriever) need weekly ear cleaning. Erect ears (German Shepherd, Husky) need monthly.
 
 Use a veterinary ear cleaner (Epi-Otic, Virbac). Fill the ear canal with solution, massage the base for 20-30 seconds (you should hear a squelching sound), let the dog shake, then wipe the outer ear with cotton balls. Never use Q-tips — they push debris deeper and can rupture the eardrum.
 
 **Signs of ear infection:** redness, swelling, dark discharge, foul odor, head shaking, ear scratching. Requires veterinary treatment — do not attempt to clean an infected ear at home.
+
 
 
