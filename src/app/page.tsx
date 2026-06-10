@@ -1,5 +1,6 @@
 import { getAllArticles, getCategories } from '@/lib/articles';
 import AdSlot from '@/components/AdSlot';
+import PopularArticles from '@/components/PopularArticles';
 
 const petTypes = [
   { emoji: '🐕', name: 'Dogs', count: 45, slug: 'category/dog-care' },
@@ -100,6 +101,8 @@ export default async function HomePage() {
         </section>
 
         <AdSlot id='home-middle' />
+
+        <PopularArticles />
 
         {/* Latest */}
         <section className='my-16'>
