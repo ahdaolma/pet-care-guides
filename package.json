@@ -1,26 +1,27 @@
-{
-  "name": "pet-care",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build && node scripts/generate-sitemap.js",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "^15.2.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "gray-matter": "^4.0.3",
-    "remark": "^15.0.0",
-    "remark-html": "^16.0.0"
-  },
-  "devDependencies": {
-    "@types/node": "^22.0.0",
-    "@types/react": "^19.0.0",
-    "typescript": "^5.7.0",
-    "tailwindcss": "^3.4.0",
-    "postcss": "^8.4.0",
-    "autoprefixer": "^10.4.0"
-  }
+﻿{
+    "name":  "pet-care",
+    "version":  "1.0.0",
+    "private":  true,
+    "scripts":  {
+                    "dev":  "next dev",
+                    "build":  "npm run presitemap \u0026\u0026 next build \u0026\u0026 node scripts/generate-sitemap.js",
+                    "start":  "next start",
+                    "presitemap":  "node scripts/generate-sitemap.js https://pet-care-guides.vercel.app"
+                },
+    "dependencies":  {
+                         "next":  "^15.2.0",
+                         "react":  "^19.0.0",
+                         "react-dom":  "^19.0.0",
+                         "gray-matter":  "^4.0.3",
+                         "remark":  "^15.0.0",
+                         "remark-html":  "^16.0.0"
+                     },
+    "devDependencies":  {
+                            "@types/node":  "^22.0.0",
+                            "@types/react":  "^19.0.0",
+                            "typescript":  "^5.7.0",
+                            "tailwindcss":  "^3.4.0",
+                            "postcss":  "^8.4.0",
+                            "autoprefixer":  "^10.4.0"
+                        }
 }

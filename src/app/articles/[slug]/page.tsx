@@ -1,6 +1,8 @@
 ﻿import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getArticleBySlug, getAllSlugs, getAllArticles } from '@/lib/articles';
+import BackToTop from '@/components/BackToTop';
+import ReadingProgress from '@/components/ReadingProgress';
 import AdSlot from '@/components/AdSlot';
 import { remark } from 'remark';
 import html from 'remark-html';
@@ -45,7 +47,18 @@ export default async function ArticlePage({ params }: Props) {
     publisher: { '@type': 'Organization', name: 'Pet Care Guides' },
   };
 
-  return (
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://pet-care-guides.vercel.app' },
+      { '@type': 'ListItem', position: 2, name: article.category, item: 'https://pet-care-guides.vercel.app/category/' + article.category.toLowerCase().replace(/\s+/g, '-') },
+      { '@type': 'ListItem', position: 3, name: article.title },
+    ],
+  };
+
+  return (<ReadingProgress />
+    
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <article className="max-w-3xl mx-auto px-6 py-8 bg-[#12080D]">
@@ -112,6 +125,7 @@ export default async function ArticlePage({ params }: Props) {
           </section>
         )}
       </article>
+      <BackToTop />
     </>
   );
 }
