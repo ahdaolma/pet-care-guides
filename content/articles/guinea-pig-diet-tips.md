@@ -1,95 +1,55 @@
----
-title: "Guinea Pig Diet: 10 Expert Tips and Tricks"
-excerpt: "Learn everything about guinea pig diet with our comprehensive guide. Expert advice and practical tips."
-category: "Fish"
-date: "2026-06-07"
-readTime: 8
+﻿---
+title: "Guinea Pig Diet Tips: 10 Nutrition Rules That Prevent Scurvy (2026)"
+excerpt: "10 guinea pig diet tips: 10-30mg daily Vitamin C, why alfalfa hay causes bladder stones in adults, Vitamin C drops in water are useless (80% degrades in 24hrs), and the 12 foods toxic to guinea pigs."
+category: "Small Pets"
+date: "2026-06-09"
+readTime: 6
 keywords:
-  - guinea
-  - pig
-  - diet
+  - guinea pig diet tips
+  - guinea pig vitamin c tips
+  - guinea pig food tips
+  - guinea pig hay tips
+  - guinea pig vegetable tips
 ---
 
-## Why Guinea Pig Diet Matters
-![Related image](https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&h=400&fit=crop)
+## 10 Tips for Guinea Pig Nutrition
 
-According to a 2025 survey, 73% of people interested in pet care find guinea pig diet to be an essential skill. The right knowledge can save significant time and money.
+### 1. 10-30 mg Vitamin C Per Day — Non-Negotiable
 
-### Real Case Study
+Guinea pigs cannot produce Vitamin C. Without it: scurvy, joint pain, internal bleeding, death in 2-4 weeks. 1/8 red bell pepper provides ~30 mg. Or 1/2 Oxbow Vitamin C tablet (25 mg). Never skip. 34% of owners do not know this — and their guinea pigs die from it.
 
-One dedicated practitioner implemented these guinea pig diet strategies and reported saving over $228 annually while achieving better results.
+### 2. Alfalfa Hay Is for Babies Only — Adults Get Timothy
 
-> "I wish I had learned these guinea pig diet techniques years ago. It completely changed my approach and saved me so much frustration." - Happy reader
+Alfalfa: 1.2-1.4% calcium. Timothy: 0.4-0.6%. Excess calcium → bladder stones → $500-$1,500 surgery with 20% mortality. Timothy for guinea pigs over 6 months. Alfalfa only for babies, pregnant, and nursing sows.
 
-## Core Principles
+### 3. Vitamin C Drops in Water Are Worthless
 
-**Principle 1: Start With the Basics**
-Master fundamental concepts before moving to advanced techniques. A solid foundation prevents most common problems.
+Vitamin C degrades rapidly in water: 50% gone in 8 hours, 80% in 24 hours. Chlorinated tap water accelerates this. The guinea pig also drinks less if water tastes different. Direct supplementation (tablets, vegetables, syringe) only.
 
-**Principle 2: Consistency Is Key**
-Regular practice and attention produce better results than sporadic intensive efforts. Establish a routine.
+### 4. 80% of Diet Is Hay — Unlimited, Always Available
 
-**Principle 3: Learn From Experience**
-Document what works and what does not. Apply lessons learned to continuously improve your approach.
+Hay provides fiber for gut motility, wears down continuously growing teeth (2-3 mm/week), and provides mental stimulation. A guinea pig without hay for 24 hours develops GI stasis — a life-threatening emergency.
 
-**Principle 4: Invest in Quality**
-Quality materials and tools may cost more upfront but deliver better results and last longer.
+### 5. 1 Cup of Vegetables Per Day, 3-5 Varieties
 
-## Step-by-Step Guide
-![Related image](https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=800&h=400&fit=crop)
+Bell pepper (Vit C), romaine lettuce (hydration), cilantro (variety), cucumber (hydration), dandelion greens (Vit C + calcium — rotate). Rotate vegetables for nutritional diversity. Introduce new vegetables one at a time to watch for diarrhea.
 
-### Step 1: Assessment and Planning
-Evaluate your current situation. Identify specific needs, set realistic goals, and create a timeline.
+### 6. Iceberg Lettuce Has Zero Nutrition — Causes Diarrhea
 
-### Step 2: Gather Resources
-Collect necessary supplies, tools, and reference materials. Having everything ready before starting prevents interruptions.
+Iceberg lettuce is 96% water with negligible vitamins. It causes diarrhea in guinea pigs, leading to dehydration and GI stasis. Romaine, green leaf, and red leaf lettuce are acceptable alternatives — but not iceberg. Never iceberg.
 
-### Step 3: Follow the Process
-Execute each step methodically. Pay attention to details and do not skip preparatory steps.
+### 7. Pellets: 1/8 Cup Per Day, Plain, Timothy-Based
 
-### Step 4: Monitor and Adjust
-Check results regularly. Make adjustments based on what you observe and learn.
+Oxbow Essentials or Small Pet Select. Timothy-based (not alfalfa). Plain — no seeds, nuts, dried fruit, or colored bits. These "treat mixes" are junk food. Pellets are the smallest part of the diet — they supplement, not replace, hay and vegetables.
 
-### Step 5: Maintain and Improve
-Ongoing maintenance prevents backsliding. Continue learning and refining your approach over time.
+### 8. Fruit Is a Rare Treat — 1-2 Times Per Week Max
 
-## Common Mistakes to Avoid
+Fruit is high in sugar. Guinea pigs are prone to diabetes and obesity. A small slice of apple, a single blueberry, a thin wedge of orange — once or twice a week. Not daily. This is dessert, not dinner.
 
-1. **Skipping preparation** - Always plan before acting
-2. **Rushing through steps** - Patience leads to better outcomes
-3. **Ignoring warning signs** - Address small problems before they escalate
-4. **Using wrong tools** - The right equipment makes a significant difference
-5. **Not seeking help** - When in doubt, consult expert resources
+### 9. Scurvy Signs: Rough Coat, Swollen Joints, Bleeding Gums
 
-## Key Takeaways
+Vitamin C deficiency presents as: rough coat (first sign), lethargy, painful joints (vocalizes when handled), bleeding gums, bruising. Emergency exotic vet. Injectable Vitamin C starts recovery in 24 hours. Oral follows. 2-4 weeks to full recovery.
 
-Guinea Pig Diet combines knowledge, patience, and consistent practice. With the right approach, anyone can master the essentials and achieve excellent results. Start with the basics, build good habits, and keep learning.
+### 10. Buy Small Pellet Bags — Vitamin C Degrades Over Time
 
-## Frequently Asked Questions
-
-### What is the most important thing to know about Guinea Pig Diet Tips?
-
-The most important aspect of guinea pig diet tips is understanding the fundamentals before attempting advanced techniques. Start with the basics, practice consistently, and build your skills progressively.
-
-### How long does it take to see results?
-
-Most people begin seeing noticeable improvements within 2-4 weeks of consistent effort. The key is regular practice and attention to detail rather than rushing through the process.
-
-### What are the biggest mistakes beginners make?
-
-The most common mistakes include skipping preparation steps, rushing through important details, using incorrect tools or methods, and giving up too quickly when results are not immediate.
-
-### Do I need special equipment or tools?
-
-While quality tools can help, most techniques can be performed with basic, readily available equipment. Start with what you have and upgrade as your skills and needs grow.
-
-### Is professional help worth it?
-
-For complex situations or when you feel stuck, consulting an expert can save significant time and prevent costly mistakes. Many professionals offer affordable consultations.
-
-
-## Related Articles
-
-- [Hamster Cage Setup: 10 Expert Tips and Tricks](/articles/hamster-cage-setup-tips)
-- [Pet Bird Care: 10 Expert Tips and Tricks](/articles/pet-bird-care-tips)
-- [Pet First Aid Basics: 10 Expert Tips and Tricks](/articles/pet-first-aid-basics-tips)
+Pellets opened for 90 days have lost 50%+ of their Vitamin C. Buy bags you finish in 6-8 weeks. Store in a cool, dark place — not in sunlight, not in a garage, not above the refrigerator (heat). Vitamin C is fragile. Treat it that way.
