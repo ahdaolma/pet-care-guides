@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Life-Saving Toxic Food Tips
 
+![10 Life-Saving Toxic Food Tips](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 ### 1. ASPCA Poison Control: (888) 426-4435
 
 Save this number in your phone RIGHT NOW. $95 consultation fee. They tell you whether to go to the vet or stay home. Cheaper than a $500 unnecessary ER visit. Cheaper than waiting too long.
@@ -53,3 +56,4 @@ Tremorgenic mycotoxins in moldy bread, dairy, nuts cause severe tremors, seizure
 ### 10. Bring the Packaging to the ER
 
 If your dog eats something toxic, bring the container, wrapper, or remnants to the emergency vet. The ingredients list tells them exactly what they are treating. Without it, treatment is guesswork.
+

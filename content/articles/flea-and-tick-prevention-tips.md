@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips for Flea and Tick Prevention
 
+![10 Tips for Flea and Tick Prevention](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 ### 1. 3 Months of Treatment to Break the Cycle
 
 Adult fleas on your pet are 5% of the infestation. Eggs, larvae, and pupae in your home are the other 95%. Stopping after 1 month means new adults emerge and re-infest. Treat for 3 consecutive months minimum.
@@ -53,3 +56,4 @@ Treating one dog while the cat goes untreated means fleas just jump hosts. All m
 ### 10. Save Removed Ticks for the Vet
 
 Put removed ticks in a sealed bag with the date. If your dog develops lethargy, fever, or joint pain within 2-5 weeks, the vet can identify the tick species and test for the specific diseases it carries. This saves time, money, and guesswork.
+

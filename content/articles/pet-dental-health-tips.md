@@ -13,6 +13,9 @@ keywords:
 
 ## Daily Dental Care Checklist
 
+![Daily Dental Care Checklist](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 - [ ] Brush teeth with enzymatic pet toothpaste (CET Virbac $9 or Petsmile $15-$25 with VOHC seal)
 - [ ] Angle brush at 45° to gum line, focus on outer surfaces of upper teeth
 - [ ] 30-60 seconds total — quality over duration
@@ -21,6 +24,9 @@ keywords:
 - [ ] Check breath — persistent foul smell = bacterial overgrowth = vet visit
 
 ## Weekly/Monthly Dental Tasks
+
+![Weekly/Monthly Dental Tasks](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.H8BWwbLrbXPHMudbHIk42wHaDC%3Fr%3D0%26pid%3DApi&f=1&ipt=ce4ba31bbb02bc7266499fa864e836a31137f388be8e9864b72b5c864903ce35&ipo=images)
+
 
 - [ ] Inspect all teeth for brown/yellow tartar buildup, chips, or looseness
 - [ ] Check for retained baby teeth in puppies/kittens under 6 months
@@ -31,6 +37,9 @@ keywords:
 ---
 
 ## At-a-Glance: Breed Dental Risk Chart
+
+![At-a-Glance: Breed Dental Risk Chart](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.hIoZGUbtuGVAygr69KLNNQHaE7%3Fr%3D0%26pid%3DApi&f=1&ipt=7ed9fd255650ac815f384e8d0479a54a06befcac92025aa74460874329c31e66&ipo=images)
+
 
 | Breed/Type | Risk Level | Cleaning Frequency | Special Concern |
 |---|---|---|---|
@@ -118,3 +127,4 @@ keywords:
 3. **Brush outer surfaces:** Small circles at gum line, upper teeth first, then lower (20 seconds)
 4. **Reward:** High-value treat + praise (5 seconds)
 5. **Done.** 30-60 seconds. Every 24 hours. That's the difference between a dog who dies with all its teeth and a dog who has 12 extractions by age 8.
+

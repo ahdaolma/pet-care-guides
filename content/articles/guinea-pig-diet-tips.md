@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips for Guinea Pig Nutrition
 
+![10 Tips for Guinea Pig Nutrition](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 ### 1. 10-30 mg Vitamin C Per Day — Non-Negotiable
 
 Guinea pigs cannot produce Vitamin C. Without it: scurvy, joint pain, internal bleeding, death in 2-4 weeks. 1/8 red bell pepper provides ~30 mg. Or 1/2 Oxbow Vitamin C tablet (25 mg). Never skip. 34% of owners do not know this — and their guinea pigs die from it.
@@ -53,3 +56,4 @@ Vitamin C deficiency presents as: rough coat (first sign), lethargy, painful joi
 ### 10. Buy Small Pellet Bags — Vitamin C Degrades Over Time
 
 Pellets opened for 90 days have lost 50%+ of their Vitamin C. Buy bags you finish in 6-8 weeks. Store in a cool, dark place — not in sunlight, not in a garage, not above the refrigerator (heat). Vitamin C is fragile. Treat it that way.
+

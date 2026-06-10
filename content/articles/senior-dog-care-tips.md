@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips for Senior Dog Care
 
+![10 Tips for Senior Dog Care](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 ### 1. Biannual Vet Visits — Not Annual
 
 Dogs age 5-7 human years between annual visits. Biannual exams catch 60% more kidney disease, 45% more dental disease, and 35% more heart murmurs. The $300/year extra cost catches disease when treatment costs hundreds, not thousands.
@@ -53,3 +56,4 @@ Untreated dental disease (present in 80% of dogs over 3) allows bacteria to ente
 ### 10. Use the HHHHHMM Scale for Quality of Life Decisions
 
 Hurt, Hunger, Hydration, Hygiene, Happiness, Mobility, More good days than bad. Score each 0-10 weekly. Below 35: have the conversation with your vet. This framework makes the hardest decision more objective and less emotional.
+

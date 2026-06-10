@@ -61,3 +61,4 @@ Dogs with floppy ears (Cocker Spaniel, Basset Hound, Golden Retriever) need week
 Use a veterinary ear cleaner (Epi-Otic, Virbac). Fill the ear canal with solution, massage the base for 20-30 seconds (you should hear a squelching sound), let the dog shake, then wipe the outer ear with cotton balls. Never use Q-tips — they push debris deeper and can rupture the eardrum.
 
 **Signs of ear infection:** redness, swelling, dark discharge, foul odor, head shaking, ear scratching. Requires veterinary treatment — do not attempt to clean an infected ear at home.
+

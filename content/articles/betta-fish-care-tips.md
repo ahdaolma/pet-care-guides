@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips for Betta Fish Care
 
+![10 Tips for Betta Fish Care](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 ### 1. 5-Gallon Minimum — Bowls Are Death Traps
 
 Pet store cups and bowls: 0.5-4 gallons. No filter, no heater, no cycle. Ammonia builds up within 24 hours. Bettas in bowls live 6-12 months. Bettas in 5+ gallon filtered, heated tanks live 3-5 years. The $50 upgrade gives your fish 4 extra years of life.
@@ -53,3 +56,4 @@ A 5-gallon is a betta-only tank. In 10+ gallons: snails, small peaceful schoolin
 ### 10. No Mirrors for Hours — Exercise, Not Torture
 
 Mirrors trigger flaring (betta thinks it is a rival). 5-10 minutes per day is enrichment (exercise). Leaving a mirror against the tank 24/7 causes chronic stress, suppressed immune system, and death.
+

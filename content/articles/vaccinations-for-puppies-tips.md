@@ -15,6 +15,9 @@ keywords:
 
 ## 10 Vaccination Tips from Veterinary Professionals
 
+![10 Vaccination Tips from Veterinary Professionals](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 ---
 
 ### 1. No Paws on Public Ground Until 2 Weeks After DHPP #3
@@ -65,4 +68,8 @@ The injection site is a small puncture wound. Bathing (or swimming) introduces b
 
 ## Key Takeaway
 
+![Key Takeaway](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.H8BWwbLrbXPHMudbHIk42wHaDC%3Fr%3D0%26pid%3DApi&f=1&ipt=ce4ba31bbb02bc7266499fa864e836a31137f388be8e9864b72b5c864903ce35&ipo=images)
+
+
 The puppy vaccine series is non-negotiable — but HOW you do it matters. Three DHPP boosters ending at 16+ weeks. Separate Lepto for small breeds. Intranasal Bordetella preferred. Low-cost clinics for the shots, full-service vet for the health checks. And keep unvaccinated paws off public ground until 2 weeks after the final shot.
+

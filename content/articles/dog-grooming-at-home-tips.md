@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips for Grooming Your Dog at Home
 
+![10 Tips for Grooming Your Dog at Home](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 ### 1. Brush Thoroughly BEFORE Bathing — Never After
 
 Water tightens loose hair into mats that are nearly impossible to remove. A 5-minute pre-bath brush prevents 30 minutes of post-bath dematting. On double-coated dogs, this is even more critical — wet undercoat mats against the skin and causes hot spots.
@@ -53,3 +56,4 @@ If you hear clicking when your dog walks on hardwood or tile, the nails are too 
 ### 10. Blow Dry on LOW Heat — Never High
 
 Dog skin burns at lower temperatures than human skin. High heat on a blow dryer causes burns that the owner does not see until scabs form days later. Use LOW heat, keep the dryer moving, and hold your hand in the airflow — if it is uncomfortable for you after 5 seconds, it is burning your dog.
+

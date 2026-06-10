@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Essential Kitten Care Tips
 
+![10 Essential Kitten Care Tips](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 ### 1. Litter Boxes = Number of Cats + 1
 
 One kitten needs TWO litter boxes on different floors or rooms. A single box in the basement means the kitten will find a closer spot — your carpet. Multiple boxes prevent elimination problems before they start.
@@ -53,3 +56,4 @@ Tiny stomachs, enormous energy needs. 4 meals per day (every 4-5 hours). At 3 mo
 ### 10. Spay/Neuter at 4-6 Months
 
 Early spay/neuter prevents spraying (males), heat cycles (females), and unwanted litters. Female cats can become pregnant as early as 4 months. The procedure is safe, routine, and costs $50-$200 at low-cost clinics. Do not delay.
+

@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips for Training Your Puppy
 
+![10 Tips for Training Your Puppy](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 ### 1. Positive Reinforcement Only — Punishment Increases Aggression
 
 A 2024 meta-analysis of 1,400+ dogs found aversive methods (shock collars, prong collars, yelling) increase stress hormones and trigger aggression in 25% of dogs. Positive reinforcement (treats, praise) produces faster learning with zero behavioral side effects. Science is clear: reward what you want, ignore what you don't.
@@ -53,3 +56,4 @@ Feed meals in the crate. Give high-value chews only in the crate. Never use it a
 ### 10. Start Training the Day You Bring Them Home
 
 Do not wait "until they settle in." Training IS settling in. An 8-week-old puppy can learn Sit in 3-5 repetitions. Training provides mental stimulation (more tiring than physical exercise) and builds your bond from day one. Start now.
+

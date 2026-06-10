@@ -14,6 +14,9 @@ keywords:
 
 ## 10 Tips to Fix Cat Litter Box Problems
 
+![10 Tips to Fix Cat Litter Box Problems](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%2Fid%2FOIP.rBgdPMOSpd78vIcqdXSCEQHaNM%3Fr%3D0%26pid%3DApi&f=1&ipt=3b19a70cc6ae3fd9fdb6bdf9b67df3a5cd41c6808a6c0227e7c6c8e963d402de&ipo=images)
+
+
 ### 1. Vet Visit First — 55% of Cases Are Medical
 
 UTI, bladder stones, kidney disease, diabetes, arthritis — all cause litter box avoidance. A urinalysis costs $40-$80. Replacing urine-soaked carpet costs $2,000+. Vet first, behavior second.
@@ -53,3 +56,4 @@ Cats do not eliminate where they eat. If the food bowl is 3 feet from the box, t
 ### 10. Arthritis in Senior Cats Is a Litter Box Problem
 
 A 12-year-old cat with arthritis experiences pain climbing into a high-sided box. They associate the box with pain and stop using it. Switch to a low-entry senior box. Treat the arthritis (Cosequin, adequan injections, pain medication). Litter box problems in seniors are often undiagnosed pain.
+
