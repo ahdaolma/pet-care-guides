@@ -62,3 +62,4 @@ Use a veterinary ear cleaner (Epi-Otic, Virbac). Fill the ear canal with solutio
 
 **Signs of ear infection:** redness, swelling, dark discharge, foul odor, head shaking, ear scratching. Requires veterinary treatment — do not attempt to clean an infected ear at home.
 
+
