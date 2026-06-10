@@ -1,4 +1,4 @@
-﻿import { getAllArticles, getCategories } from '@/lib/articles';
+import { getAllArticles, getCategories } from '@/lib/articles';
 import AdSlot from '@/components/AdSlot';
 
 const petTypes = [
